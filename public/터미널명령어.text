@@ -1,0 +1,8 @@
+프로젝트 디렉토리로 이동
+cd vue3-project
+
+프로젝트 실행(해당 프로젝트 디렉토리에서)
+npm run serve
+
+json 테스트서버 기동
+json-server --watch db.json
